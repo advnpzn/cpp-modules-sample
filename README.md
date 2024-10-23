@@ -4,4 +4,4 @@ This just contains some pretty barebones code so that things could be understood
 
 ### What you'll need.
 1. A C++ compiler that supports C++ 20 out of the box. And even if they support, some compilers would required some special flags to be enabled to even support modules usage.
-2. A recent version of CMake which supports the use of CXX_MODULES. i.e. I believe any version of CMake >= 2.28 supports this.
+2. A recent version of CMake which supports the use of CXX_MODULES. i.e. I believe any version of CMake >= 3.28 supports this.
