@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.29)
 project(sample)
 
-# Setting C++ standard to 20 and it is compulsorily
+# Setting C++ standard to 20 and it is compulsorily required
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
